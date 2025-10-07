@@ -76,10 +76,10 @@
     "cytoscape-fcose": "^2.2.0",
     "d3": "^7.9.0",
     "d3-sankey": "^0.12.3",
-    "dagre-d3-es": "7.0.11",
+    "dagre-d3-es": "7.0.12",
     "dayjs": "^1.11.18",
     "dompurify": "^3.2.5",
-    "katex": "^0.16.22",
+    "katex": "^0.16.23",
     "khroma": "^2.1.0",
     "lodash-es": "^4.17.21",
     "marked": "^16.3.0",
@@ -89,7 +89,7 @@
     "uuid": "^11.1.0"
   },
   "devDependencies": {
-    "@adobe/jsonschema2md": "^8.0.5",
+    "@adobe/jsonschema2md": "^8.0.6",
     "@iconify/types": "^2.0.0",
     "@types/cytoscape": "^3.21.9",
     "@types/cytoscape-fcose": "^2.2.4",
